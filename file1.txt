@@ -1,0 +1,2 @@
+#Practicing git command
+Initialization, Add, commit, create a branch,push
