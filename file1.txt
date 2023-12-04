@@ -1,2 +1,5 @@
 #Practicing git command
 Initialization, Add, commit, create a branch,push
+
+Edited from Git hub
+Creating Pull request
